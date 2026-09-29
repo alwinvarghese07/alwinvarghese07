@@ -10,40 +10,21 @@ I’m a Product Designer with a technical background, working across **UX resear
 
 ---
 
-## What I do
+### Connect with me
 
-* 🧭 **Product thinking** — understanding problems, users, and business goals
-* 🔍 **UX research** — interviews, surveys, competitive analysis, and user journeys
-* 🧩 **Experience design** — flows, wireframes, prototypes, and interaction design
-* 🎨 **Visual design** — interfaces, design systems, and reusable components
-* 🤝 **Design × Engineering** — working closely with developers and understanding how products are built
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" />
+</a>
 
-## Selected work
+### Design & Development Tools
 
-A few products and concepts I’ve worked on:
-
-| Project           | What I'm exploring                                                                           |
-| ----------------- | -------------------------------------------------------------------------------------------- |
-| **StayTransit**   | Making airport layovers easier through a transit booking experience                          |
-| **DineChoice**    | Simplifying restaurant operations and guest ordering experiences                             |
-| **Trip2Tirupati** | Designing a regional travel platform for discovering and booking experiences                 |
-| **Lookout**       | A classroom anomaly alert app that helps users review events detected by a separate AI model |
-| **Trivo**         | Making personal expenses and shared bills easier to manage                                   |
-
-↗ Explore more on my [portfolio](https://alwinvarghese.com).
-
----
-
-## My toolkit
-
-**Design**
-Figma · FigJam · Miro · Lookback
-
-**Development & prototyping**
-React · Flutter · HTML · CSS · JavaScript
-
-**Other tools**
-Cypress · Git · Firebase · VS Code
+<img src="https://skillicons.dev/icons?i=figma,miro,react,flutter,html,css,js,python,git,vscode&theme=dark" />
 
 ---
 
