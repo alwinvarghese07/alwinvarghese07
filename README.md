@@ -11,7 +11,7 @@ Designing digital products that just make sense.
 ## Connect with me
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer"><img src="assets/portfolio.svg" alt="Portfolio website" width="40" height="40" /></a></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer"><img src="assets/portfolio.svg" alt="Portfolio website" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alwinvarghesesaji/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn profile" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/alweece" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/x-auto.svg" alt="X (Twitter) profile" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/alweece" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/instagram.svg" alt="Instagram profile" width="40" height="40" /></a>
