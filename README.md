@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://hits.sh/github.com/alwinvarghese07/alwinvarghese07.svg?style=for-the-badge&label=Stalkers&color=ffffff&labelColor=000000" alt="Stalkers" />
+</p>
+
 # Hey, I'm Alwin 👋
 
 **Product Designer · Design-minded Engineer**
