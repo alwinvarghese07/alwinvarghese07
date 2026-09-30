@@ -1,29 +1,29 @@
 # Hey, I'm Alwin 👋
 
-### Product Designer · Design-minded Engineer
+**Product Designer · Design-minded Engineer**
 
 Designing digital products that just make sense.
 
-[Portfolio](https://alwinvarghese.com) · [LinkedIn](linkedin.com/in/alwinvarghesesaji) · [Email](mailto:alwin.varghese.saji@gmail.com)
+[Portfolio](https://alwinvarghese.com) · [LinkedIn](https://www.linkedin.com/in/alwinvarghesesaji/) · [Email](mailto:alwin.varghese.saji@gmail.com)
 
 ---
 
-## Connect with me
+### Connect with me
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer"><img src="assets/portfolio.svg" alt="Portfolio website" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.alwinvarghese.com/" target="_blank" rel="noopener noreferrer"><img src="assets/portfolio.svg" alt="Portfolio website" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alwinvarghesesaji/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn profile" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/alweece" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/x-auto.svg" alt="X (Twitter) profile" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/alweece" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/instagram.svg" alt="Instagram profile" width="40" height="40" /></a>
 </p>
 
-## Tools & Technologies
+### Tools & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="44" height="44" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/framer-auto.svg" alt="Framer" width="44" height="44" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/miro-icon.svg" alt="Miro" width="44" height="44" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" alt="Webflow" width="44" height="44" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/miro-icon.svg" alt="Miro" width="44" height="44" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/notion-icon.svg" alt="Notion" width="44" height="44" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="44" height="44" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="Slack" width="44" height="44" />&nbsp;&nbsp;
@@ -34,15 +34,17 @@ Designing digital products that just make sense.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="44" height="44" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="44" height="44" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/github-auto.svg" alt="GitHub" width="44" height="44" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="44" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/antigravity.svg" alt="Google Antigravity" width="44" height="44" />
 </p>
 
-## A little about me
+--- 
 
-* 🎓 Computer Science & Engineering background
-* 🛠️ Comfortable collaborating with developers and working through technical constraints
-* 🎧 Electronic music producer in my free time
-* 🌱 Always learning, testing ideas, and improving how I design
+### A little about me
+
+- Product designer who cares about the details users notice, and the ones they only feel
+- CS & Engineering background, so I know what "just a small change" really costs
+- Happy to talk technical constraints with developers before they become surprises
+- Electronic music producer, still looking for the perfect snare (and the perfect spacing)
 
 ---
 
@@ -52,6 +54,6 @@ Designing digital products that just make sense.
 
 Have an interesting product problem or want to collaborate?
 
-**[Visit my portfolio](https://alwinvarghese.com)** · **[Connect on LinkedIn](YOUR_LINKEDIN_URL)**
+**[Visit my portfolio](https://alwinvarghese.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/alwinvarghesesaji/)**
 
 </div>
